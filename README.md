@@ -11,6 +11,9 @@
 1. yarn install
 2. yarn dev
 
+### NOTES
+1. <Canvas /> (uppercase) is for React Components - <canvas/> (lowercase) is for three constructor
+
 ### ISSUES
 1. Fix error "Fully Qulified Error Id: Unauthorized Access":
 [Fix Unable to Run Yarn in Windows Terminal – PowerShell](https://www.nextofwindows.com/fix-unable-to-run-yarn-in-windows-terminal-powershell)

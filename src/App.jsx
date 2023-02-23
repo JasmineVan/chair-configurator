@@ -1,9 +1,13 @@
+import { Canvas } from '@react-three/fiber'
 import './App.css'
+import Experience from './components/Experience'
 
 function App() {
   return (
     <div className="App">
-        Hello World
+        <Canvas>
+          <Experience/>
+        </Canvas>
     </div>
   )
 }
